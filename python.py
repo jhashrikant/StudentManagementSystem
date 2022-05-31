@@ -95,7 +95,7 @@ def view_record():
 
     name_Of_user.set(selection[1]); email_Of_user.set(selection[2])
     Contact_Of_user.set(selection[3]); gender_Of_user.set(selection[4])
-    dob.set_date(date); stream_Of_user.set(selection[6]);Remaining_fees_Of_user.set(selection[7])
+    dob.set_date(date); stream_Of_user.set(selection[6]);
 
  
 #Initializing the GUI window
